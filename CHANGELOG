@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+12/02/13: Versions 1.4.20 Theodo
+--------------------------------
+
+ * fixed Compatibility PHP 5.4
+ * fixed sfYamlParser.php (typo `merged` instead of `merge` in var name)
+
 11/25/12: Versions 1.4.20
 -------------------------
 
